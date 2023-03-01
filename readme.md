@@ -15,6 +15,6 @@ $ npm install
 Para ejecutar el script que procesa e inserta los datos en MongoDB:
 
 ```js
-$ node ./scriptInsertData/scriptDB.js
+$ node ./src/scriptDB.js
 ```
 
